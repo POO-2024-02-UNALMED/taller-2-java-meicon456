@@ -1,4 +1,5 @@
-package test;
+import test.Asiento;
+import test.Motor;
 
 public class Auto {
     private String marca;
