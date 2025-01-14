@@ -1,3 +1,6 @@
+import Motor;
+import Asiento;
+
 public class Auto {
     private String marca;
     private String modelo;
