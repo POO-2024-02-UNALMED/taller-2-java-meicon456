@@ -9,6 +9,12 @@ public class Asiento {
         this.registro = registro;
     }
 
+    public Asiento() {
+        this.color = "default"; 
+        this.precio = 0;        
+        this.registro = 0;      
+    }
+
     public String getColor() {
         return color;
     }
