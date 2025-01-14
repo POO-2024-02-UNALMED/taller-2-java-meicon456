@@ -1,5 +1,3 @@
-package test;
-
 public class Motor {
     private int numeroCilindros;
     private String tipo;
