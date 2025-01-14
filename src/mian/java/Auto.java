@@ -1,5 +1,3 @@
-package main;
-
 public class Auto {
     private String marca;
     private String modelo;
