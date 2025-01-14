@@ -1,5 +1,5 @@
-import Motor;
-import Asiento;
+import java.Motor;
+import java.Asiento;
 
 public class Auto {
     private String marca;
